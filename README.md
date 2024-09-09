@@ -1,6 +1,6 @@
 # PyInstaller Setup Wizard
 
-PyInstaller Setup Wizard is a simple GUI tool built using Python's `Tkinter` library to easily create executables (`.exe` files) from Python scripts using PyInstaller.
+PyInstaller Wizard is a simple GUI tool built using Python's `Tkinter` library to easily create executables (`.exe` files) from Python scripts using PyInstaller.
 
 ## Features
 
